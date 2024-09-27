@@ -1,0 +1,54 @@
+[33mcommit f811e89a02f14966b9ccd74a5b936f1feec0c184[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Hi im Andre <handrelukas@gmail.com>
+Date:   Thu Sep 26 22:16:46 2024 -0300
+
+    "Data formatting issue in CSV file"
+
+[33mcommit b3d11f11d56b33be3aca11e9fbfe8686343dae72[m
+Merge: b1013a1 1285c17
+Author: Hi im Andre <handrelukas@gmail.com>
+Date:   Wed Sep 25 16:43:48 2024 -0300
+
+    Merge branch 'main' of https://github.com/HimAndre/scraper_prices
+
+[33mcommit b1013a1210dd836651aca2f3806dadf9a16f7402[m
+Author: Hi im Andre <handrelukas@gmail.com>
+Date:   Wed Sep 25 16:43:39 2024 -0300
+
+    Merged app code into a single file and add csv data saver.
+
+[33mcommit 1285c175ed3f634dd84eea48ecc5cc89fe60391f[m
+Author: Hi im Andre <152094769+HimAndre@users.noreply.github.com>
+Date:   Tue Sep 24 23:18:22 2024 -0300
+
+    README.md
+
+[33mcommit d8de13de9a83c8bd8ebc7ad8f9238560c7d94140[m
+Author: Hi im Andre <handrelukas@gmail.com>
+Date:   Tue Sep 24 23:05:59 2024 -0300
+
+    "Change Google to Yahoo Finance (for more stability)"
+
+[33mcommit 67209ea4d3917cf824e55295bf99753590a2b935[m
+Author: Hi im Andre <handrelukas@gmail.com>
+Date:   Fri Sep 20 22:53:58 2024 -0300
+
+    PANDAS IMPLEMENT
+
+[33mcommit 28eb7b8ffafb3e6bb5e78fe8f56802e599f0c5e9[m
+Author: Hi im Andre <handrelukas@gmail.com>
+Date:   Fri Sep 20 12:57:34 2024 -0300
+
+    USD Scraper google data
+
+[33mcommit f1be2cccd452720232b8f38fbd1a04a1df913201[m
+Author: Hi im Andre <handrelukas@gmail.com>
+Date:   Wed Sep 18 19:41:11 2024 -0300
+
+    Scraper USD
+
+[33mcommit 6dbc091aab3bd98da00b1880f0e503830893e464[m
+Author: Hi im Andre <152094769+HimAndre@users.noreply.github.com>
+Date:   Wed Sep 18 12:13:48 2024 -0300
+
+    Initial commit
