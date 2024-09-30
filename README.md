@@ -15,7 +15,7 @@ beautifulsoup4
 pandas (opcional, para armazenar em DataFrames)
 sqlite3 (opcional, para uso com banco de dados SQLite)
 
-Entendendo que a alguns sites alteram os valores da classes que tornam o scraper indisponivel, sendo assim, recomendo que ao verificar que o valor fique indispovível alterar o valor pelo o utilizado atualmente.
+Entendendo que a alguns sites alteram os valores da classes que tornam o scraper indisponivel, sendo assim, recomendo que ao verificar que o valor fique indispovível. Alterar o valor pelo o utilizado atualmente.
 
 
 Executar o script
